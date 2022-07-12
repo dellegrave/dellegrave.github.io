@@ -1,0 +1,46 @@
+a {
+  color: blue;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: goldenrod;
+    text-shadow: 2px 2px 4px black;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    color: #50C1F5;
+    line-height: 2px;
+    }
+p, ul {width: auto}  
+html {
+    font-size: 12px; /* px significa "pixels": o tamanho da fonte base agora tem 12 pixels de altura */
+    font-family: "Teko", sans-serif; /* este deve ser o restante da saída (link) que você obteve das fontes do Google */
+  }
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  p, li {
+    font-size: 16px;
+    line-height: 1;
+    letter-spacing: 1px;
+  }
+  p {
+    text-align: start;
+  }
+  html {
+    background-color: #50C1F5;
+  }
+  body {
+    width: 600px;
+    margin: auto;
+    background-color: #e3dddd;
+    padding: 0px 20px 20px 20px;
+    border: 3px solid black;
+  }
+img {
+    display: block;
+    margin: 0 auto;
+}
